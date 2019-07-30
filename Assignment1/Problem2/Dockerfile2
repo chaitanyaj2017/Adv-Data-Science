@@ -1,0 +1,12 @@
+FROM python
+
+RUN pip install pandas
+RUN pip install boto
+RUN pip install beautifulsoup4
+RUN pip install urllib3
+Run pip install lxml
+RUN pip install html5lib
+
+COPY Data.txt /Data.txt
+COPY Problem2.py /Problem2.py
+CMD ["python","./Problem2.py","$(cat Data2.txt)"]

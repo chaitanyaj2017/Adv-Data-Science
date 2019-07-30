@@ -1,0 +1,1 @@
+cik=000012345 accno=000005114313000007 aws_access_key_id=AKIACSLRYKTKBNUL7SQ aws_secret_access_key=3+XSr92v+Mr77rE9Qo1JnerTEHWfvYdWuU7KfcpZ adsBucket=ads-assignment1 region=us-east-1
